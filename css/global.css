@@ -2,12 +2,12 @@
 @import "./fonts.css";
 @import "./header.css";
 @import "./footer.css";
-
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
+
 html {
   scroll-behavior: smooth;
   height: 100%;
@@ -17,10 +17,12 @@ a {
   text-decoration: none;
   display: inline-block;
 }
+
 ul,
 ol {
   list-style: none;
 }
+
 body {
   height: 100%;
   display: flex;
@@ -31,9 +33,11 @@ body {
   line-height: 24px;
   color: #232536;
 }
+
 .main {
   flex-grow: 1;
 }
+
 .container {
   width: 100%;
   max-width: 1380px;
@@ -42,6 +46,7 @@ body {
   padding-left: 50px;
   padding-right: 50px;
 }
+
 .main-nav li a {
   &:hover {
     opacity: 80%;
@@ -52,6 +57,7 @@ body {
     color: orange;
   }
 }
+
 .services-nav li a {
   &:hover {
     opacity: 80%;
@@ -62,6 +68,7 @@ body {
     color: orange;
   }
 }
+
 .resourses-nav li a {
   &:hover {
     opacity: 80%;
@@ -70,5 +77,68 @@ body {
   &:active {
     opacity: 60%;
     color: orange;
+  }
+}
+
+/* Cta section */
+
+.cta {
+  color: #fff;
+}
+
+.cta-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 96px;
+  background-color: #666dff;
+  max-width: 1300px;
+  background-image: url(../image/svg/cta-right-shape.svg),
+    url(../image/svg/cta-shape.svg);
+  background-repeat: no-repeat;
+  background-position: right, top left;
+  gap: 122px;
+}
+
+.cta-subtitle {
+  margin-bottom: 13px;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  letter-spacing: 3px;
+}
+
+.cta-title {
+  width: 488px;
+  font-size: 36px;
+  font-weight: 600;
+  line-height: 54px;
+}
+
+.cta-right {
+  width: 100%;
+}
+
+.cta-input {
+  padding: 20px 29px;
+  font-family: inherit;
+  font-weight: 500;
+  width: 100%;
+}
+
+.cta-form {
+  max-width: 454px;
+  width: 100%;
+}
+
+.cta-input {
+  & {
+    border: 0;
+  }
+  &:focus {
+    outline: none;
+  }
+  &::placeholder {
+    color: rgba(35, 37, 54, 40%);
   }
 }

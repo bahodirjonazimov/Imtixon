@@ -1,284 +1,388 @@
 @import "../../css/global.css";
-.our-service {}
-
-.top {
-    background-color: #ffe6d2;
+.our-service {
 }
 
-.main {}
+.top {
+  background-color: #ffe6d2;
+}
+
+.main {
+}
 
 .Our-Services {
-    font-family: Poppins;
-    font-size: 14px;
-    padding-top: 96px;
-    font-weight: 500;
-    line-height: 20px;
-    letter-spacing: 3px;
-    text-align: left;
-    text-underline-position: from-font;
-    text-decoration-skip-ink: none;
+  font-family: Poppins;
+  font-size: 14px;
+  padding-top: 96px;
+  font-weight: 500;
+  line-height: 20px;
+  letter-spacing: 3px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
 }
 
 .services__h2 {
-    width: 625px;
-    padding-top: 12px;
-    font-family: Poppins;
-    font-size: 48px;
-    font-weight: 600;
-    line-height: 58px;
-    text-align: left;
-    text-underline-position: from-font;
-    text-decoration-skip-ink: none;
+  width: 625px;
+  padding-top: 12px;
+  font-family: Poppins;
+  font-size: 48px;
+  font-weight: 600;
+  line-height: 58px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
 }
 
 .services__p {
-    width: 624px;
-    padding-top: 24px;
-    padding-bottom: 40px;
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 24px;
-    text-align: left;
-    text-underline-position: from-font;
-    text-decoration-skip-ink: none;
+  width: 624px;
+  padding-top: 24px;
+  padding-bottom: 40px;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
 }
 
-.btn {}
+.btn {
+}
 
 .btn-primary {
-    margin-bottom: 96px;
+  margin-bottom: 96px;
 }
 
-.btn-text {}
+.btn-text {
+}
 
-.btn-image {}
+.btn-image {
+}
 
-.bottom {}
+.bottom {
+}
 
 .process.container {
-    background-color: #f9f9ff;
+  background-color: #f9f9ff;
 }
 
-.process__blog {}
+.process__blog {
+}
 
 .process__top {
-    display: flex;
+  display: flex;
 }
 
 .process__text {
-    margin-top: 96px;
+  margin-top: 96px;
 }
 
 .proces__h2 {
-    margin-top: 16px;
-    width: 733px;
-    font-family: Poppins;
-    font-size: 48px;
-    font-weight: 600;
-    line-height: 58px;
-    text-align: left;
-    text-underline-position: from-font;
-    text-decoration-skip-ink: none;
+  margin-top: 16px;
+  width: 733px;
+  font-family: Poppins;
+  font-size: 48px;
+  font-weight: 600;
+  line-height: 58px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
 }
 
 .proces__texts {
-    margin-top: 16px;
-    margin-bottom: 68px;
-    width: 642px;
-    font-family: Poppins;
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 24px;
-    text-align: left;
-    text-underline-position: from-font;
-    text-decoration-skip-ink: none;
+  margin-top: 16px;
+  margin-bottom: 68px;
+  width: 642px;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
 }
 
 .process__img {
-    margin-right: 440px;
+  margin-right: 440px;
 }
 
-.process__bottom {}
+.process__bottom {
+}
 
 .process-1 {
-    margin-right: 10px;
+  margin-right: 10px;
 }
 
 .process-2 {
-    margin-right: 10px;
+  margin-right: 10px;
 }
 
 .process-3 {
-    margin-right: 10px;
+  margin-right: 10px;
 }
 
 .process-4 {
-    margin-right: 10px;
+  margin-right: 10px;
 }
 
 .process-5 {
-    margin-right: 10px;
+  margin-right: 10px;
 }
 
 .process-6 {
-    margin-right: 10px;
+  margin-right: 10px;
 }
-
 
 /* Technical-Support start */
 
 .Technical-Support.container {
-    display: flex;
-    background-color: #ffffff;
+  display: flex;
+  background-color: #ffffff;
 }
 
 .support-top {
-    margin-right: 140px;
+  margin-right: 140px;
 }
 
 .support__h4 {
-    margin-top: 141px;
-    //styleName: H4 Heading;
-    font-family: Poppins;
-    font-size: 24px;
-    font-weight: 600;
-    line-height: 36px;
-    text-align: left;
-    text-underline-position: from-font;
-    text-decoration-skip-ink: none;
+  margin-top: 141px;
+  font-family: Poppins;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 36px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
 }
 
 .support__h3 {
-    margin-top: 16px;
-    width: 624px;
-    //styleName: H3 Heading;
-    font-family: Poppins;
-    font-size: 36px;
-    font-weight: 600;
-    line-height: 54px;
-    text-align: left;
-    text-underline-position: from-font;
-    text-decoration-skip-ink: none;
+  margin-top: 16px;
+  width: 624px;
+  font-family: Poppins;
+  font-size: 36px;
+  font-weight: 600;
+  line-height: 54px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
 }
 
 .support__texts {
-    margin-top: 24px;
-    width: 622px;
-    //styleName: Paragraph;
-    font-family: Poppins;
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 24px;
-    text-align: left;
-    text-underline-position: from-font;
-    text-decoration-skip-ink: none;
+  margin-top: 24px;
+  width: 622px;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
 }
 
-.support-bottom {}
-
+.support-bottom {
+}
 
 /* Technical-Support end */
-
 
 /* Developoment start */
 
 .Developoment .container {
-    display: flex;
-    background-color: #ecf8f9;
+  display: flex;
+  background-color: #ecf8f9;
 }
 
 .Developoment__left {
-    margin-right: 140px;
+  margin-right: 140px;
 }
 
-.Developoment__right {}
+.Developoment__right {
+}
 
 .Developoment__h4 {
-    margin-top: 141px;
-    font-family: Poppins;
-    font-size: 24px;
-    font-weight: 600;
-    line-height: 36px;
-    text-align: left;
-    text-underline-position: from-font;
-    text-decoration-skip-ink: none;
+  margin-top: 141px;
+  font-family: Poppins;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 36px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
 }
 
 .Developoment__h3 {
-    margin-top: 16px;
-    width: 624px;
-    font-family: Poppins;
-    font-size: 36px;
-    font-weight: 600;
-    line-height: 54px;
-    text-align: left;
-    text-underline-position: from-font;
-    text-decoration-skip-ink: none;
+  margin-top: 16px;
+  width: 624px;
+  font-family: Poppins;
+  font-size: 36px;
+  font-weight: 600;
+  line-height: 54px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
 }
 
 .Developoment__texts {
-    margin-top: 24px;
-    width: 622px;
-    font-family: Poppins;
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 24px;
-    text-align: left;
-    text-underline-position: from-font;
-    text-decoration-skip-ink: none;
+  margin-top: 24px;
+  width: 622px;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
 }
 
-
 /* Developoment end */
-
 
 /* AWS/Azure start */
 
 .Azure {
-    display: flex;
+  display: flex;
 }
 
-.container {}
+.container {
+}
 
-.Azure-top {}
+.Azure-top {
+}
 
 .Azure__h4 {
-    margin-top: 141px;
-    font-family: Poppins;
-    font-size: 24px;
-    font-weight: 600;
-    line-height: 36px;
-    text-align: left;
-    text-underline-position: from-font;
-    text-decoration-skip-ink: none;
+  margin-top: 141px;
+  font-family: Poppins;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 36px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
 }
 
 .Azure__h3 {
-    margin-top: 16px;
-    width: 624px;
-    //styleName: H3 Heading;
-    font-family: Poppins;
-    font-size: 36px;
-    font-weight: 600;
-    line-height: 54px;
-    text-align: left;
-    text-underline-position: from-font;
-    text-decoration-skip-ink: none;
+  margin-top: 16px;
+  width: 624px;
+  font-family: Poppins;
+  font-size: 36px;
+  font-weight: 600;
+  line-height: 54px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
 }
 
 .Azure__texts {
-    margin-top: 24px;
-    //styleName: Paragraph;
-    font-family: Poppins;
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 24px;
-    text-align: left;
-    text-underline-position: from-font;
-    text-decoration-skip-ink: none;
+  margin-top: 24px;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
 }
 
-.Azure-bottom {}
-
+.Azure-bottom {
+}
 
 /* AWS/Azure end */
+
+/* Consulting start */
+
+.Consulting .container {
+  display: flex;
+  background-color: #f9f9ff;
+}
+
+.Consulting__left {
+  margin-right: 140px;
+}
+
+.Consulting__right {
+}
+
+.Consulting__h4 {
+  margin-top: 141px;
+  font-family: Poppins;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 36px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+
+.Consulting__h3 {
+  margin-top: 16px;
+  width: 624px;
+  font-family: Poppins;
+  font-size: 36px;
+  font-weight: 600;
+  line-height: 54px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+
+.Consulting__texts {
+  margin-top: 24px;
+  width: 622px;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+
+/* Consulting end */
+
+/* Information Technology start */
+
+.Technology {
+  display: flex;
+}
+
+.container {
+}
+
+.Technology-top {
+}
+
+.Technology__h4 {
+  margin-top: 141px;
+  font-family: Poppins;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 36px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+
+.Technology__h3 {
+  margin-top: 16px;
+  width: 624px;
+  font-family: Poppins;
+  font-size: 36px;
+  font-weight: 600;
+  line-height: 54px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+
+.Technology__texts {
+  margin-top: 24px;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+
+.Technology-bottom {
+}
+
+/* Information Technology end*/
